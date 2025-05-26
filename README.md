@@ -1,6 +1,7 @@
-# Empirical Analysis - Final Project
+# Suicide Prediction Analysis System
 
-This repository contains an empirical analysis project presented as a Jupyter Notebook.
+
+This repository contains an Suicide Prediction Analysis System project presented as a Jupyter Notebook.
 
 ## Files
 
